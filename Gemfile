@@ -15,7 +15,7 @@ gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .js.coffee assets and views
 gem 'coffee-rails', '~> 4.0.0'
 
-gem "paperclip", "~> 3.5.1"
+gem "paperclip", "~> 4.2.4"
 
 gem "annotate", "~> 2.5.0"
 
